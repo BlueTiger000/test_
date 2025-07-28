@@ -1,0 +1,4 @@
+﻿  2Task.cpp
+C:\Users\Валерия\source\repos\2Task\2Task\2Task.cpp(43,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Валерия\source\repos\2Task\2Task\2Task.cpp(58,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  2Task.vcxproj -> C:\Users\Валерия\source\repos\2Task\x64\Debug\2Task.exe
